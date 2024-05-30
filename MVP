@@ -1,0 +1,18 @@
+These are the minimum features required to implement a basic maze game with SDL2.
+
+Data Modelling
+
+User Story:
+End users want to be able to play a maze game using SDL2 to have fun solving the maze and challenge themselves to improve their speed and accuracy.
+
+When starting the game, users want to see a main menu that allows them to start a new game, load a saved game, or quit. If they choose to start a new game, they want to select the difficulty level, including the maze size and number of obstacles.
+
+Once the game starts, users want to see a maze on the screen and control a character using the arrow keys. They want the character to move smoothly and quickly, without any lag or delay. They also want to see a timer and a score that reflects their progress through the maze.
+
+As they navigate the maze, users want to be able to collect coins or other rewards that increase their score, and encounter obstacles that slow them down or make it harder to reach the end.
+
+When they complete the maze, users want to see a congratulatory message with their final score and completion time, and an option to save their game for later play.
+
+Throughout the game, users want to hear sound effects and music that enhance the gameplay experience and keep them engaged.
+
+Finally, users want the game to have high-quality graphics and animations that make it visually appealing and fun to play.
